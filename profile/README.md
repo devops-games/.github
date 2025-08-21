@@ -1,4 +1,4 @@
-# DevOps Games: Git Based Gaming Concepts
+# DevOps Games
 
 ## Overview
 Following on from the idea of [git based Fantasy Football League](https://github.com/devops-games/gfl), this is a space that encourages exploring the possibility of using git workflows, pull requests, and CI/CD as game mechanics.
